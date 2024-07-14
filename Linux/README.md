@@ -1,4 +1,4 @@
-Sample code to get GEO location data from Linux and Windows services
+Sample code to get GEO location data for Linux 
 
 ```
 sudo apt install meson
